@@ -1,0 +1,18 @@
+# Ignore virtual environment
+.venv/
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore data folder
+data/
+
+# Ignore model weights
+models/
+
+# Ignore system files
+*.log
+*.tmp
+.DS_Store
